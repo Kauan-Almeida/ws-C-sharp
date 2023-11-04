@@ -1,3 +1,6 @@
 [submodule "If_else_Csharp"]
 	path = If_else_Csharp
 	url = https://github.com/Kauan-Almeida/If_else_Csharp.git
+[submodule "Estrutura_Switch"]
+	path = Estrutura_Switch
+	url = https://github.com/Kauan-Almeida/Estrutura_Switch.git
