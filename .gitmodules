@@ -13,3 +13,6 @@
 [submodule "Projeto_Cem_primeiros_numeros_inteiros"]
 	path = Projeto_Cem_primeiros_numeros_inteiros
 	url = https://github.com/Kauan-Almeida/Projeto_Cem_primeiros_numeros_inteiros.git
+[submodule "Projeto_Somatorio_dos_numeros_n_pares"]
+	path = Projeto_Somatorio_dos_numeros_n_pares
+	url = https://github.com/Kauan-Almeida/Projeto_Somatorio_dos_numeros_n_pares.git
