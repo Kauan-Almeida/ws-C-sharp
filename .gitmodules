@@ -7,3 +7,6 @@
 [submodule "Mostrar_Patas_Csharp"]
 	path = Mostrar_Patas_Csharp
 	url = https://github.com/Kauan-Almeida/Mostrar_Patas_Csharp.git
+[submodule "Projeto_Pizzaria_Csharp"]
+	path = Projeto_Pizzaria_Csharp
+	url = https://github.com/Kauan-Almeida/Projeto_Pizzaria_Csharp.git
