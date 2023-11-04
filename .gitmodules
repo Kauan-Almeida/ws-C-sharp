@@ -4,3 +4,6 @@
 [submodule "Estrutura_Switch"]
 	path = Estrutura_Switch
 	url = https://github.com/Kauan-Almeida/Estrutura_Switch.git
+[submodule "Mostrar_Patas_Csharp"]
+	path = Mostrar_Patas_Csharp
+	url = https://github.com/Kauan-Almeida/Mostrar_Patas_Csharp.git
